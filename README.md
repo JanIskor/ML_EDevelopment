@@ -67,7 +67,7 @@
 
 ---
 
-## 📚 Используемые библиотеки
+## Используемые библиотеки
 
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn` (RandomForest, GradientBoosting, DecisionTree, KNN, GridSearchCV)
